@@ -1,0 +1,7 @@
+langchain==0.1.11
+openai==1.13.3
+PyPDF2==3.0.1
+faiss-cpu==1.8.0
+tiktoken==0.6.0
+pandas
+pydantic==2.6.3
