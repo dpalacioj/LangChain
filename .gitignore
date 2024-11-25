@@ -1,6 +1,5 @@
 *.docx
 *.json
-*.pdf
 .env
 Lets'+Build+Simple+Question+Answering+Application.zip
 LLM+Intro.ipynb

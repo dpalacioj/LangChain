@@ -1,3 +1,10 @@
-langchain==0.3.4
-langchain-huggingface==0.1.0
-langchain-openai==0.2.3
+langchain
+langchain-huggingface
+langchain-openai
+ipykernel
+PyPDF2==3.0.1
+faiss-cpu==1.8.0
+tiktoken
+pandas
+pydantic==2.9.2
+langchain-community==0.3.3
